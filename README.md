@@ -1,4 +1,4 @@
-<div style="background-color:yellow">
+<div style="color:yellow">
   <h1 align="center">Hi 👋, I'm Vikas Reddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src=" https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/0ed28b734a42d06a96cc57f5d478625c.gif?resize=400x0">
